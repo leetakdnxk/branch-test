@@ -2,4 +2,8 @@ first edition
 second edition
 third edition
 issue resloved
+<<<<<<< Updated upstream
 Hotfix team's solution
+=======
+hotfix my solutin
+>>>>>>> Stashed changes
